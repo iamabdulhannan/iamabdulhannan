@@ -40,13 +40,6 @@ Passionate about crafting responsive, scalable, and user-friendly web applicatio
 
 ---
 
-## 📈 **GitHub Stats**
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamabdulhannan&show_icons=true&theme=radical)
-
----
-
 ## 💡 **Professional Competencies**
 
 - ✅ Strong experience with Agile methodologies (Scrum, Sprint Planning, Stand-ups)
