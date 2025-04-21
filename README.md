@@ -42,7 +42,7 @@ Passionate about crafting responsive, scalable, and user-friendly web applicatio
 
 ## 📈 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhannan123&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamabdulhannan&show_icons=true&theme=radical)
 
 ---
 
