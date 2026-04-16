@@ -79,7 +79,7 @@ Currently leading development at **Lifecycle PLM (UK)** and building multiple Sa
 
 ## Featured Projects
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Thread.png" width="25" /> Lifecycle PLM — *Enterprise Product Lifecycle Management*
+### 🧵 Lifecycle PLM — *Enterprise Product Lifecycle Management*
 
 > **An AI-driven SaaS platform helping fashion brands move from concept to production — trusted by teams managing millions in product lines.**
 
@@ -118,7 +118,7 @@ Currently leading development at **Lifecycle PLM (UK)** and building multiple Sa
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="25" /> Lifecycle Adobe Extension — *Bridging Design & Development*
+### 🎨 Lifecycle Adobe Extension — *Bridging Design & Development*
 
 > **A custom Adobe Illustrator CEP extension that brings product lifecycle management directly into the designer's workflow — no context switching.**
 
@@ -155,7 +155,7 @@ Currently leading development at **Lifecycle PLM (UK)** and building multiple Sa
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25" /> Capiwise — *Fintech Market Intelligence*
+### 📈 Capiwise — *Fintech Market Intelligence*
 
 > A modern fintech platform providing real-time market insights and portfolio tracking.
 
@@ -166,7 +166,7 @@ Currently leading development at **Lifecycle PLM (UK)** and building multiple Sa
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shirt.png" width="25" /> Outfts — *Social Commerce for Fashion*
+### 👕 Outfts — *Social Commerce for Fashion*
 
 > A social commerce platform connecting global fashion brands and retailers.
 
@@ -177,7 +177,7 @@ Currently leading development at **Lifecycle PLM (UK)** and building multiple Sa
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="25" /> DMT — *Secure Document Management*
+### 🔐 DMT — *Secure Document Management*
 
 > An enterprise document management and collaboration platform for business teams.
 
