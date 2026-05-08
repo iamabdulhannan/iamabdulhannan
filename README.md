@@ -1,230 +1,367 @@
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--                                  HERO BANNER                                -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<a href="https://github.com/iamabdulhannan">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:EC4899&height=240&section=header&text=Abdul%20Hannan&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20Full-Stack%20%26%20AI%20Systems&descAlignY=60&descAlign=50&descSize=18&animation=fadeIn" alt="Abdul Hannan banner" />
+</a>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--                              ANIMATED ROLE TYPER                            -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
 <div align="center">
 
-# Abdul Hannan
-
-### Senior Software Engineer | Full-Stack & AI Systems
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamabdalhannan/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamabdalhannan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamabdulhannan)
+<a href="https://github.com/iamabdulhannan">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&multiline=false&width=760&lines=Building+AI-native+SaaS+platforms.;Shipping+production-grade+systems.;React+%C2%B7+TypeScript+%C2%B7+NestJS+%C2%B7+Python;Available+for+senior+IC+roles+%E2%80%94+UK+%26+US." alt="Role typer" />
+</a>
 
 <br/>
 
-*Building production-grade SaaS platforms, workflow-driven systems, and AI-enabled applications.*  
-*4+ years turning complex ideas into scalable, real-world software.*
+<!-- Quick-access connect pills -->
+<a href="https://www.linkedin.com/in/abdul-hannan-eng/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></a>
+<a href="mailto:iamabdalhannan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/iamabdulhannan/Hannan-portfolio"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/iamabdulhannan/Hannan-portfolio/raw/main/public/Abdul_Hannan_Resume_professional.pdf"><img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamabdulhannan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamabdulhannan&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
+<!-- Live status row -->
+<img src="https://komarev.com/ghpvc/?username=iamabdulhannan&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/iamabdulhannan?style=for-the-badge&color=7C3AED&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available" />
 
 </div>
 
----
+<br/>
 
-## About Me
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--                                  ABOUT ME                                   -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-I'm a **Senior Full-Stack Software Engineer** specializing in React, TypeScript, Python, and scalable backend architectures. I design, build, and ship complex systems in fast-paced startup environments — from AI-driven enterprise platforms to fintech dashboards and Adobe creative tools.
+## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Waving%20Hand.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Waving%20Hand.png?raw=true" width="28" /></picture>&nbsp; About me
 
-Currently leading development at **Lifecycle PLM (UK)** and building multiple SaaS products at **Orbiqon (US)**.
+> *Senior Full-Stack Engineer turning complex ideas into scalable, real-world software.*
 
----
+I design, build, and ship production-grade systems for **UK** and **US** startups — from AI-driven enterprise platforms and fintech dashboards, to real-time collaboration tools and Adobe creative extensions.
 
-## Tech Stack
+I take **end-to-end ownership**: from database schema, through API design, frontend architecture, and deployment pipelines, all the way to the live customer flow.
+
+```ts
+const abdul = {
+  role:        "Senior Software Engineer",
+  focus:       ["Full-Stack", "AI Systems", "Real-time Platforms"],
+  stack:       ["React", "TypeScript", "NestJS", "Python", "MongoDB"],
+  currently:   ["Lifecycle PLM (UK · Remote)", "Orbiqon (US · Remote)"],
+  shipping:    "AI-driven SaaS, fintech surfaces, Adobe extensions",
+  available:   true,
+  timezones:   ["UK", "US", "APAC overlap"],
+  motto:       "The best code is the one that ships and scales.",
+};
+```
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--                                  TECH STACK                                 -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Hammer%20and%20Wrench.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Hammer%20and%20Wrench.png?raw=true" width="26" /></picture>&nbsp; Tech stack
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![React Flow](https://img.shields.io/badge/React_Flow-FF0072?style=flat-square&logoColor=white)
+#### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite&theme=dark&perline=4" />
+
+<sub>React 18 · Next.js · TypeScript · Tailwind · shadcn/ui · Chakra UI · Material UI · Three.js · React Flow · Framer Motion</sub>
 
 </td>
 <td valign="top" width="33%">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+#### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,django,graphql,socketio,redis&theme=dark&perline=4" />
+
+<sub>NestJS · Express · Apollo · GraphQL · REST · Socket.io · Redis pub/sub · Bull queue · OpenAI · Runware</sub>
 
 </td>
 <td valign="top" width="33%">
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+#### Cloud & Tooling
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,mongodb,postgres,firebase,github,vercel&theme=dark&perline=4" />
+
+<sub>AWS (S3, CloudFront, Lambda) · GCP · Vercel · Docker · GitHub Actions · MongoDB · PostgreSQL · Firebase · Sentry</sub>
 
 </td>
 </tr>
 </table>
 
----
-
-## Featured Projects
-
-### 🧵 Lifecycle PLM — *Enterprise Product Lifecycle Management*
-
-> **An AI-driven SaaS platform helping fashion brands move from concept to production — trusted by teams managing millions in product lines.**
-
-<details>
-<summary><b>See the full breakdown</b></summary>
-
 <br/>
 
-**The Platform** — A comprehensive PLM solution with **50+ backend modules** and **44+ frontend feature modules**, purpose-built for the fashion & manufacturing industry.
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--                                  GITHUB STATS                               -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-**What I Built:**
-
-| Area | Details |
-|------|---------|
-| **AI Studio** | Integrated OpenAI + Runware + Replicate for AI-powered design assistance and image generation |
-| **Techpack Engine** | Full techpack creation with measurements, materials, specs, and PDF export |
-| **Workflow Orchestration** | Conditional approval flows, sampling stages, and production tracking |
-| **Real-Time Collaboration** | Socket.io-powered live editing, notifications, and multi-user features |
-| **3D Visualization** | Three.js + React Three Fiber for interactive product models |
-| **Visual Board Studio** | Excalidraw-based collaborative whiteboarding for design teams |
-| **Vendor Portal** | Secure techpack sharing with manufacturers + communication tools |
-| **Dashboard & Analytics** | Custom widgets, Nivo charts, and data-driven insights |
-| **Linesheet Studio** | Professional linesheet creation and distribution |
-| **Sampling Management** | End-to-end sample tracking with approval workflows |
-
-**Architecture Highlights:**
-- **Frontend:** React 18 + TypeScript + Vite + Chakra UI + Mantine + Apollo Client
-- **Backend:** NestJS + MongoDB + GraphQL + Redis + Bull Queue
-- **Real-Time:** Socket.io for live collaboration across teams
-- **AI/ML:** OpenAI SDK, Runware, Replicate for generative design
-- **Integrations:** Shopify API, Gmail, Paddle Payments, Mapbox, Firebase
-- **Deployment:** Docker + GitHub Actions CI/CD + NGINX reverse proxy
-- **Observability:** Bugsnag error tracking + Google Analytics
-
-</details>
-
-<br/>
-
-### 🎨 Lifecycle Adobe Extension — *Bridging Design & Development*
-
-> **A custom Adobe Illustrator CEP extension that brings product lifecycle management directly into the designer's workflow — no context switching.**
-
-<details>
-<summary><b>See the full breakdown</b></summary>
-
-<br/>
-
-**The Problem** — Designers live in Adobe. Product managers live in PLM tools. The gap between them causes delays, miscommunication, and lost work.
-
-**The Solution** — A native Adobe Illustrator panel that connects directly to the Lifecycle PLM platform, letting designers manage products, collections, and assets without ever leaving their creative environment.
-
-**What I Built:**
-
-| Area | Details |
-|------|---------|
-| **CEP Panel** | Production-grade Adobe extension supporting Illustrator v25–30 |
-| **Multi-App Support** | Architecture supports 9+ Adobe apps (Illustrator, Photoshop, InDesign, After Effects, Premiere Pro, and more) |
-| **Brand & Collection Management** | Browse, create, and manage products across multiple brands |
-| **Smart Screenshot Capture** | Custom bounding-box algorithm for intelligent annotation trimming with pixel-level analysis |
-| **Product Creation** | Full product creation workflow with form validation, image uploads, and metadata editing |
-| **AI Export** | Native export to Adobe Illustrator `.ai` format |
-| **Asset Pipeline** | Presigned URL uploads to AWS S3/CloudFront for seamless media handling |
-| **Auth System** | Email/password + token-based sessions with Google OAuth ready |
-
-**Architecture Highlights:**
-- **Frontend:** React 18 + TypeScript + Material UI + Apollo Client (GraphQL)
-- **Adobe Integration:** CEP Framework + ExtendScript (JSX) for direct Illustrator API access
-- **Build:** Vite 4.5 with custom CEP plugin + Rollup for ExtendScript bundling
-- **Distribution:** Automated ZXP signing and release via GitHub Actions
-- **Dual Runtime:** React in browser context + ExtendScript in Adobe's runtime — seamless bridge between modern web and legacy desktop APIs
-
-</details>
-
-<br/>
-
-### 📈 Capiwise — *Fintech Market Intelligence*
-
-> A modern fintech platform providing real-time market insights and portfolio tracking.
-
-- Built reusable dashboard and chart components with **React.js + TypeScript**
-- Integrated REST APIs for **real-time market and portfolio data**
-- Performance-optimized with memoization, lazy loading, and clean component architecture
-- Fully responsive across mobile, tablet, and desktop
-
-<br/>
-
-### 👕 Outfts — *Social Commerce for Fashion*
-
-> A social commerce platform connecting global fashion brands and retailers.
-
-- Built scalable SaaS features using **Next.js, TypeScript, and Apollo GraphQL**
-- Improved load times & SEO via **server-side rendering**
-- Integrated secure payments through **Stripe**
-- Developed unit-tested, production-ready frontend modules
-
-<br/>
-
-### 🔐 DMT — *Secure Document Management*
-
-> An enterprise document management and collaboration platform for business teams.
-
-- Built responsive frontend interfaces using **React**
-- Backend services powered by **Django + PostgreSQL**
-- Focused on secure document storage, structured access controls, and scalable data handling
-
----
-
-## What I Bring to the Table
-
-```
-Enterprise SaaS          I've built platforms with 50+ modules serving real production workloads
-AI Integration           Hands-on with OpenAI, Runware, Replicate for generative features
-Real-Time Systems        Socket.io, Redis pub/sub, live collaboration — not just CRUD
-Adobe Extension Dev      One of few engineers bridging modern React with Adobe's CEP/ExtendScript
-Full Ownership           From database schema to deployment pipeline — I ship end to end
-Startup Speed            High-output environments where I wear multiple hats and deliver fast
-```
-
----
-
-## Work Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| **Senior Software Engineer** | Lifecycle PLM (UK) | Jan 2024 – Present |
-| **Software Engineer** | Orbiqon (US) | Apr 2023 – Present |
-
----
+## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png?raw=true" width="26" /></picture>&nbsp; GitHub in numbers
 
 <div align="center">
 
-### Let's Connect
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=iamabdulhannan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=EC4899" alt="Stats" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamabdulhannan&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=EC4899&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Streak" />
+</td>
+</tr>
+</table>
 
-I'm always open to interesting conversations and collaborations.  
-If you're building something ambitious, let's talk.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamabdalhannan/)
-[![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamabdalhannan@gmail.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=iamabdulhannan&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabdulhannan&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&card_width=720" alt="Top languages" />
 
 <br/><br/>
 
-*"The best code is the one that ships and scales."*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamabdulhannan&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=7C3AED&point=EC4899&area=true&area_color=58A6FF&custom_title=Contribution%20graph%20%E2%80%94%20last%2031%20days" alt="Activity graph" width="98%" />
 
 </div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--                                   TROPHIES                                  -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Trophy.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Trophy.png?raw=true" width="26" /></picture>&nbsp; Trophies
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=iamabdulhannan&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=8&margin-w=8&margin-h=8" alt="Trophies" />
+</a>
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--                                CONTRIBUTION SNAKE                           -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Snake.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Snake.png?raw=true" width="26" /></picture>&nbsp; Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamabdulhannan/iamabdulhannan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamabdulhannan/iamabdulhannan/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/iamabdulhannan/iamabdulhannan/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--                                FEATURED WORK                                -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png?raw=true" width="26" /></picture>&nbsp; Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <kbd>&nbsp;ENTERPRISE&nbsp;</kbd>&nbsp; Lifecycle PLM
+
+> *AI-driven product lifecycle platform for fashion brands. Trusted by teams managing millions in product lines.*
+
+<sub>**Role:** Founding-team Senior Software Engineer · UK Remote · 2024 → present</sub>
+
+`React 18` `TypeScript` `NestJS` `GraphQL` `MongoDB` `Redis` `Socket.io` `OpenAI`
+
+**What I shipped:**
+- AI Studio: OpenAI + Runware + Replicate behind a unified prompt UI
+- 50+ backend modules · 44+ frontend modules
+- Real-time collaboration via Socket.io + Redis pub/sub
+- Workflow engine: declarative state machines for sampling, approvals, production
+- Three.js / React Three Fiber 3D product views
+- Adobe Illustrator CEP extension covering 9+ Adobe apps
+
+[`Visit live`](https://www.lifecycleplm.com/) &nbsp;·&nbsp; [`Read case study`](https://github.com/iamabdulhannan/Hannan-portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### <kbd>&nbsp;CREATIVE&nbsp;</kbd>&nbsp; Lifecycle Adobe Extension
+
+> *Native Adobe Illustrator panel that brings PLM directly into the designer's canvas. No context switching.*
+
+<sub>**Role:** Lead Engineer · Solo IC · 2024 → present</sub>
+
+`React 18` `TypeScript` `Material UI` `Apollo Client` `CEP Framework` `ExtendScript` `AWS S3`
+
+**What I shipped:**
+- Production-grade CEP panel for Illustrator v25 → v30
+- Dual runtime: React in browser context · ExtendScript in Adobe runtime
+- Smart bounding-box algorithm for annotation trimming
+- Multi-app architecture: 9+ Adobe apps from one codebase
+- Automated ZXP signing & release via GitHub Actions
+- Presigned-URL uploads to AWS S3 / CloudFront
+
+[`Adobe Exchange`](https://exchange.adobe.com/apps/cc/search?q=lifecycle%20plm) &nbsp;·&nbsp; [`Read case study`](https://github.com/iamabdulhannan/Hannan-portfolio)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <kbd>&nbsp;AI&nbsp;</kbd>&nbsp; RevOps AI
+
+> *AI-powered revenue operations assistant. Turns scattered sales data into pipeline insight, forecasts, and next-best-action.*
+
+<sub>**Role:** Founding Frontend & AI Engineer · 2025</sub>
+
+`Next.js` `TypeScript` `OpenAI` `Vercel AI SDK` `shadcn/ui`
+
+- LLM-driven pipeline analysis with streamed answers
+- Tool-use agents over CRM, billing, support
+- Forecasting + next-best-action queue
+- Modern shadcn/ui surface, fully accessible
+
+[`Visit live`](https://revops-ai-five.vercel.app/) &nbsp;·&nbsp; [`Read case study`](https://github.com/iamabdulhannan/Hannan-portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### <kbd>&nbsp;FINTECH&nbsp;</kbd>&nbsp; vSignal · Capiwise
+
+> *Crypto-macro intelligence and real-time market dashboards for retail and pro traders.*
+
+<sub>**Role:** Frontend Engineer · 2023–2025</sub>
+
+`Next.js` `TypeScript` `REST APIs` `Chart.js` `SSR` `Apollo`
+
+- Editorial home with radar-pulse hero & quant-insight motif
+- Reusable signal cards for macro, sentiment, on-chain
+- Real-time portfolio tracking · sub-16ms re-renders
+- Tabular figures & responsive across mobile / tablet / desktop
+
+[`vSignal`](https://vsignal.ai/) &nbsp;·&nbsp; [`Capiwise`](https://capiwise.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <kbd>&nbsp;ENTERPRISE&nbsp;</kbd>&nbsp; Apex DMS
+
+> *Multi-workspace document management with hierarchical structure, role-based access, and template-driven PDF export.*
+
+<sub>**Role:** Senior Frontend Engineer · 2023–2024</sub>
+
+`React 18` `TypeScript` `Django` `PostgreSQL` `Celery` `RabbitMQ` `Puppeteer`
+
+- Multi-tenant isolation enforced at data, API, and UI layers
+- Hierarchical document tree (document → chapter → section)
+- Template-driven Puppeteer PDF generation
+- Multi-format I/O (CSV, Excel, JSON, YAML)
+
+[`Visit live`](https://dev.mt-emea-dmt.apexdigital.online/)
+
+</td>
+<td width="50%" valign="top">
+
+### <kbd>&nbsp;SAAS&nbsp;</kbd>&nbsp; Outfts · Bonus9ja
+
+> *Social commerce for global fashion brands and high-traffic engagement platforms with sub-second time-to-content.*
+
+<sub>**Role:** Frontend Engineer · 2023–2024</sub>
+
+`Next.js` `TypeScript` `Apollo GraphQL` `Stripe` `SSR`
+
+- SSR-optimized for SEO and fast first paint
+- Stripe Elements with full webhook reconciliation
+- Selective hydration for live-odds widgets
+- A/B-able landing variants owned by growth team
+
+[`Outfts`](https://www.outfts.com) &nbsp;·&nbsp; [`Bonus9ja`](https://www.bonus9ja.com/)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--                              WORK EXPERIENCE                                -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Briefcase.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Briefcase.png?raw=true" width="26" /></picture>&nbsp; Where I've made things
+
+<table>
+<tr>
+<td><b>Senior Software Engineer</b></td>
+<td>Lifecycle PLM <sub>(UK · Remote)</sub></td>
+<td><sub>Jan 2024 → Present</sub></td>
+<td><img src="https://img.shields.io/badge/CURRENT-22C55E?style=flat-square&logo=checkmarx&logoColor=white" /></td>
+</tr>
+<tr>
+<td><b>Software Engineer</b></td>
+<td>Orbiqon <sub>(US · Remote)</sub></td>
+<td><sub>Apr 2023 → Present</sub></td>
+<td><img src="https://img.shields.io/badge/CURRENT-22C55E?style=flat-square&logo=checkmarx&logoColor=white" /></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--                          WHAT I BRING TO THE TABLE                          -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Sparkles.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Sparkles.png?raw=true" width="26" /></picture>&nbsp; What I bring to the table
+
+| | |
+|---|---|
+| **Enterprise SaaS** | Platforms with 50+ modules serving real production workloads. |
+| **AI integration** | Hands-on with OpenAI, Runware, Replicate, Vercel AI SDK for shipped features. |
+| **Real-time systems** | Socket.io, Redis pub/sub, optimistic UI, conflict reconciliation. |
+| **Adobe extension dev** | Bridging modern React with Adobe's CEP / ExtendScript ecosystem. |
+| **Full ownership** | Database schema → API → frontend → CI/CD → live customers. |
+| **Startup speed** | High-output environments, multiple hats, ship-first culture. |
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--                                 QUOTE BLOCK                                 -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" width="80%" />
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--                                  LET'S CONNECT                              -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbols/Speech%20Balloon.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbols/Speech%20Balloon.png?raw=true" width="26" /></picture>&nbsp; Let's build something
+
+<div align="center">
+
+I'm always open to interesting conversations and collaborations.<br/>
+If you're shipping something ambitious — let's talk.
+
+<br/><br/>
+
+<a href="mailto:iamabdalhannan@gmail.com"><img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/abdul-hannan-eng/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/iamabdulhannan/Hannan-portfolio"><img src="https://img.shields.io/badge/View%20Portfolio-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--                                  FOOTER WAVE                                -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:58A6FF&height=120&section=footer&animation=fadeIn" alt="footer" />
