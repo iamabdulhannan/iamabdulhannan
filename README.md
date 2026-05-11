@@ -110,7 +110,7 @@ const abdul = {
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.hackclub.dev/api?username=iamabdulhannan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=EC4899" alt="Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamabdulhannan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=EC4899" alt="Stats" />
 </td>
 <td>
 <img src="https://streak-stats.demolab.com?user=iamabdulhannan&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=EC4899&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Streak" />
@@ -118,7 +118,7 @@ const abdul = {
 </tr>
 </table>
 
-<img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=iamabdulhannan&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&card_width=720" alt="Top languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamabdulhannan&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&card_width=720" alt="Top languages" />
 
 <br/><br/>
 
