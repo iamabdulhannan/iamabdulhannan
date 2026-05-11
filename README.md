@@ -3,7 +3,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <a href="https://github.com/iamabdulhannan">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:EC4899&height=240&section=header&text=Abdul%20Hannan&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20Full-Stack%20%26%20AI%20Systems&descAlignY=60&descAlign=50&descSize=18&animation=fadeIn" alt="Abdul Hannan banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Abdul%20Hannan&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20Full-Stack%20%26%20AI%20Systems&descAlignY=60&descAlign=50&descSize=18&animation=fadeIn" alt="Abdul Hannan banner" width="100%" />
 </a>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -39,7 +39,7 @@
 <!--                                  ABOUT ME                                   -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Waving%20Hand.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Waving%20Hand.png?raw=true" width="28" /></picture>&nbsp; About me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" alt="Waving hand" />&nbsp; About me
 
 > *Senior Full-Stack Engineer turning complex ideas into scalable, real-world software.*
 
@@ -66,7 +66,7 @@ const abdul = {
 <!--                                  TECH STACK                                 -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Hammer%20and%20Wrench.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Hammer%20and%20Wrench.png?raw=true" width="26" /></picture>&nbsp; Tech stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26" alt="Hammer and wrench" />&nbsp; Tech stack
 
 <table>
 <tr>
@@ -103,7 +103,7 @@ const abdul = {
 <!--                                  GITHUB STATS                               -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png?raw=true" width="26" /></picture>&nbsp; GitHub in numbers
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26" alt="Bar chart" />&nbsp; GitHub in numbers
 
 <div align="center">
 
@@ -113,7 +113,7 @@ const abdul = {
 <img src="https://github-readme-stats.vercel.app/api?username=iamabdulhannan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=EC4899" alt="Stats" />
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamabdulhannan&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=EC4899&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=iamabdulhannan&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=EC4899&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Streak" />
 </td>
 </tr>
 </table>
@@ -132,7 +132,7 @@ const abdul = {
 <!--                                   TROPHIES                                  -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Trophy.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Trophy.png?raw=true" width="26" /></picture>&nbsp; Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="26" alt="Trophy" />&nbsp; Trophies
 
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -146,7 +146,7 @@ const abdul = {
 <!--                                CONTRIBUTION SNAKE                           -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Snake.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Snake.png?raw=true" width="26" /></picture>&nbsp; Contribution snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="26" alt="Snake" />&nbsp; Contribution snake
 
 <div align="center">
 
@@ -164,7 +164,7 @@ const abdul = {
 <!--                                FEATURED WORK                                -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png?raw=true" width="26" /></picture>&nbsp; Featured projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" alt="Rocket" />&nbsp; Featured projects
 
 <table>
 <tr>
@@ -295,7 +295,7 @@ const abdul = {
 <!--                              WORK EXPERIENCE                                -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Briefcase.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Briefcase.png?raw=true" width="26" /></picture>&nbsp; Where I've made things
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="26" alt="Briefcase" />&nbsp; Where I've made things
 
 <table>
 <tr>
@@ -318,7 +318,7 @@ const abdul = {
 <!--                          WHAT I BRING TO THE TABLE                          -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Sparkles.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Sparkles.png?raw=true" width="26" /></picture>&nbsp; What I bring to the table
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="26" alt="Sparkles" />&nbsp; What I bring to the table
 
 | | |
 |---|---|
@@ -345,7 +345,7 @@ const abdul = {
 <!--                                  LET'S CONNECT                              -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## <picture><source srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbols/Speech%20Balloon.png?raw=true" media="(prefers-color-scheme: dark)" /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbols/Speech%20Balloon.png?raw=true" width="26" /></picture>&nbsp; Let's build something
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="26" alt="Speech balloon" />&nbsp; Let's build something
 
 <div align="center">
 
