@@ -3,7 +3,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <a href="https://github.com/iamabdulhannan">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Abdul%20Hannan&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20Full-Stack%20%26%20AI%20Systems&descAlignY=60&descAlign=50&descSize=18&animation=fadeIn" alt="Abdul Hannan banner" width="100%" />
+  <img src="./assets/banner.svg" alt="Abdul Hannan banner" width="100%" />
 </a>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -110,7 +110,7 @@ const abdul = {
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=iamabdulhannan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=EC4899" alt="Stats" />
+<img src="https://github-readme-stats.hackclub.dev/api?username=iamabdulhannan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=EC4899" alt="Stats" />
 </td>
 <td>
 <img src="https://streak-stats.demolab.com?user=iamabdulhannan&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=EC4899&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Streak" />
@@ -118,7 +118,7 @@ const abdul = {
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabdulhannan&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&card_width=720" alt="Top languages" />
+<img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=iamabdulhannan&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&card_width=720" alt="Top languages" />
 
 <br/><br/>
 
